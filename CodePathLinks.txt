@@ -1,0 +1,14 @@
+New Tip 102: https://courses.codepath.org/courses/tip102/unit/1#!overview
+
+Old Tip 102: https://courses.codepath.org/courses/tip102-legacy/pages/getting_started
+    https://www.youtube.com/playlist?list=PLrT2tZ9JRrf4cuavFcwQw6qfR8M9m7pEd
+
+Tip 103: https://courses.codepath.org/courses/tip103/pages/getting_started
+    https://www.youtube.com/playlist?list=PLrT2tZ9JRrf6E03XM-KOOu0UZPDsCmeWK
+
+Android 102: https://courses.codepath.org/courses/and102/unit/3#!labs
+
+Web 102: https://courses.codepath.org/courses/web102/pages/getting_started
+https://www.youtube.com/playlist?list=PLrT2tZ9JRrf5-JpiiGgTzdgyEu8raKBsk
+
+Web 103: https://courses.codepath.org/courses/web103/unit/1#!overview
